@@ -232,7 +232,7 @@ int main(int argc, char* argv[]) {
     unordered_map<int, int> distribution;
     vector<int> CHash(n, 0);
     CHash[v] = 1;
-    increaseStackSize((size_t)3072 * (size_t)1024 * (size_t)1024);
+    increaseStackSize((size_t)512 * (size_t)1024 * (size_t)1024);
 
     update(CHash, C, v + 1, n, mappedAdj, T, S, mp, distribution);
     cout << "Number of cliques: " << count_cliques << endl;
