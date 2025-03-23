@@ -1,0 +1,23 @@
+Number of cliques: 459002
+Size of largest maximal clique: 17
+
+Distribution of clique sizes:
+Size Number of cliques
+14    2329
+15    740
+17    23
+16    208
+13    5449
+12    11640
+11    21736
+10    35470
+9    54456
+8    76732
+7    83266
+6    68872
+5    48416
+4    27292
+3    13718
+2    8655
+
+Time taken by algorithm: 1.51727 seconds

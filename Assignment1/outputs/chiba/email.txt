@@ -1,0 +1,27 @@
+Stack size increased to 3221225472 bytes.
+Number of cliques: 226859
+Size of largest maximal clique: 20
+
+Distribution of clique sizes:
+Size Number of cliques
+20    6
+19    10
+18    41
+17    286
+16    1178
+15    3157
+14    7417
+13    11487
+12    15181
+11    17833
+10    21393
+9    22884
+8    24766
+7    25896
+5    18143
+6    22715
+3    7077
+4    13319
+2    14070
+
+Time taken by algorithm: 458.405 seconds
