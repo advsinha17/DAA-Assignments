@@ -90,6 +90,13 @@ g++ --std=c++17 -O3 chiba.cpp -o chiba.out
 sudo ./chiba.out <path-to-dataset-txt>
 ```
 
+### Group Members
+
+1. Srija Guda (2022A7PS2003H)
+2. Khushi Kamtam (2022A7PS2010H)
+3. Pranathi Voora (2022A7PS2012H)
+4. Advik Sinha (2022A7PS2004H)
+
 ### Contributions
 
 - Listing All Maximal Cliques in Sparse Graphs in Near-optimal Time: Advik Sinha (f20222004@hyderabad.bits-pilani.ac.in | 2022A7PS2004H)
