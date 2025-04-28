@@ -1,0 +1,142 @@
+n is: 1589
+m is: 2742
+Found 7159 hCliques:
+Found 3764 h - 1 Cliques
+inital parameters: 
+l = 0 u = 970
+val is: 3.96301e-07
+l is: 0 u is: 970
+Alpha is: 485
+Max Flow: 28636
+
+l is: 0 u is: 485
+Alpha is: 242.5
+Max Flow: 28636
+
+l is: 0 u is: 242.5
+Alpha is: 121.25
+Max Flow: 18956
+
+l is: 121.25 u is: 242.5
+Alpha is: 181.875
+Max Flow: 23806
+
+l is: 181.875 u is: 242.5
+Alpha is: 212.188
+Max Flow: 26231
+
+l is: 212.188 u is: 242.5
+Alpha is: 227.344
+Max Flow: 27443.5
+
+l is: 227.344 u is: 242.5
+Alpha is: 234.922
+Max Flow: 28049.8
+
+l is: 234.922 u is: 242.5
+Alpha is: 238.711
+Max Flow: 28352.9
+
+l is: 238.711 u is: 242.5
+Alpha is: 240.605
+Max Flow: 28504.4
+
+l is: 240.605 u is: 242.5
+Alpha is: 241.553
+Max Flow: 28580.2
+
+l is: 241.553 u is: 242.5
+Alpha is: 242.026
+Max Flow: 28618.1
+
+l is: 242.026 u is: 242.5
+Alpha is: 242.263
+Max Flow: 28636
+
+l is: 242.026 u is: 242.263
+Alpha is: 242.145
+Max Flow: 28627.6
+
+l is: 242.145 u is: 242.263
+Alpha is: 242.204
+Max Flow: 28632.3
+
+l is: 242.204 u is: 242.263
+Alpha is: 242.234
+Max Flow: 28634.7
+
+l is: 242.234 u is: 242.263
+Alpha is: 242.248
+Max Flow: 28635.9
+
+l is: 242.248 u is: 242.263
+Alpha is: 242.256
+Max Flow: 28636
+
+l is: 242.248 u is: 242.256
+Alpha is: 242.252
+Max Flow: 28636
+
+l is: 242.248 u is: 242.252
+Alpha is: 242.25
+Max Flow: 28636
+
+l is: 242.248 u is: 242.25
+Alpha is: 242.249
+Max Flow: 28635.9
+
+l is: 242.249 u is: 242.25
+Alpha is: 242.25
+Max Flow: 28636
+
+l is: 242.25 u is: 242.25
+Alpha is: 242.25
+Max Flow: 28636
+
+l is: 242.25 u is: 242.25
+Alpha is: 242.25
+Max Flow: 28636
+
+l is: 242.25 u is: 242.25
+Alpha is: 242.25
+Max Flow: 28636
+
+l is: 242.25 u is: 242.25
+Alpha is: 242.25
+Max Flow: 28636
+
+l is: 242.25 u is: 242.25
+Alpha is: 242.25
+Max Flow: 28636
+
+l is: 242.25 u is: 242.25
+Alpha is: 242.25
+Max Flow: 28636
+
+l is: 242.25 u is: 242.25
+Alpha is: 242.25
+Max Flow: 28636
+
+l is: 242.25 u is: 242.25
+Alpha is: 242.25
+Max Flow: 28636
+
+l is: 242.25 u is: 242.25
+Alpha is: 242.25
+Max Flow: 28636
+
+l is: 242.25 u is: 242.25
+Alpha is: 242.25
+Max Flow: 28636
+
+l is: 242.25 u is: 242.25
+Alpha is: 242.25
+Max Flow: 28636
+
+20
+D: 
+910 909 906 905 904 903 902 901 900 899 898 897 896 895 894 893 892 891 908 907 
+CDS Density: 242.25
+Number of cliques: 4845
+Number of vertices: 20
+Time taken by algorithm: 1.31916 seconds

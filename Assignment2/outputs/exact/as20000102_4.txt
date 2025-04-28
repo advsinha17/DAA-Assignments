@@ -1,0 +1,162 @@
+n is: 6474
+m is: 13895
+Found 5636 hCliques:
+Found 6584 h - 1 Cliques
+inital parameters: 
+l = 0 u = 2059
+val is: 2.38628e-08
+l is: 0 u is: 2059
+Alpha is: 1029.5
+Max Flow: 22544
+
+l is: 0 u is: 1029.5
+Alpha is: 514.75
+Max Flow: 22544
+
+l is: 0 u is: 514.75
+Alpha is: 257.375
+Max Flow: 22544
+
+l is: 0 u is: 257.375
+Alpha is: 128.688
+Max Flow: 22544
+
+l is: 0 u is: 128.688
+Alpha is: 64.3438
+Max Flow: 19721.5
+
+l is: 64.3438 u is: 128.688
+Alpha is: 96.5156
+Max Flow: 22544
+
+l is: 64.3438 u is: 96.5156
+Alpha is: 80.4297
+Max Flow: 21924.7
+
+l is: 80.4297 u is: 96.5156
+Alpha is: 88.4727
+Max Flow: 22544
+
+l is: 80.4297 u is: 88.4727
+Alpha is: 84.4512
+Max Flow: 22455.6
+
+l is: 84.4512 u is: 88.4727
+Alpha is: 86.4619
+Max Flow: 22544
+
+l is: 84.4512 u is: 86.4619
+Alpha is: 85.4565
+Max Flow: 22544
+
+l is: 84.4512 u is: 85.4565
+Alpha is: 84.9539
+Max Flow: 22521.9
+
+l is: 84.9539 u is: 85.4565
+Alpha is: 85.2052
+Max Flow: 22544
+
+l is: 84.9539 u is: 85.2052
+Alpha is: 85.0795
+Max Flow: 22538.2
+
+l is: 85.0795 u is: 85.2052
+Alpha is: 85.1424
+Max Flow: 22544
+
+l is: 85.0795 u is: 85.1424
+Alpha is: 85.1109
+Max Flow: 22542.2
+
+l is: 85.1109 u is: 85.1424
+Alpha is: 85.1267
+Max Flow: 22544
+
+l is: 85.1109 u is: 85.1267
+Alpha is: 85.1188
+Max Flow: 22543.2
+
+l is: 85.1188 u is: 85.1267
+Alpha is: 85.1227
+Max Flow: 22543.7
+
+l is: 85.1227 u is: 85.1267
+Alpha is: 85.1247
+Max Flow: 22544
+
+l is: 85.1247 u is: 85.1267
+Alpha is: 85.1257
+Max Flow: 22544
+
+l is: 85.1247 u is: 85.1257
+Alpha is: 85.1252
+Max Flow: 22544
+
+l is: 85.1247 u is: 85.1252
+Alpha is: 85.1249
+Max Flow: 22544
+
+l is: 85.1249 u is: 85.1252
+Alpha is: 85.1251
+Max Flow: 22544
+
+l is: 85.1249 u is: 85.1251
+Alpha is: 85.125
+Max Flow: 22544
+
+l is: 85.125 u is: 85.1251
+Alpha is: 85.125
+Max Flow: 22544
+
+l is: 85.125 u is: 85.125
+Alpha is: 85.125
+Max Flow: 22544
+
+l is: 85.125 u is: 85.125
+Alpha is: 85.125
+Max Flow: 22544
+
+l is: 85.125 u is: 85.125
+Alpha is: 85.125
+Max Flow: 22544
+
+l is: 85.125 u is: 85.125
+Alpha is: 85.125
+Max Flow: 22544
+
+l is: 85.125 u is: 85.125
+Alpha is: 85.125
+Max Flow: 22544
+
+l is: 85.125 u is: 85.125
+Alpha is: 85.125
+Max Flow: 22544
+
+l is: 85.125 u is: 85.125
+Alpha is: 85.125
+Max Flow: 22544
+
+l is: 85.125 u is: 85.125
+Alpha is: 85.125
+Max Flow: 22544
+
+l is: 85.125 u is: 85.125
+Alpha is: 85.125
+Max Flow: 22544
+
+l is: 85.125 u is: 85.125
+Alpha is: 85.125
+Max Flow: 22544
+
+l is: 85.125 u is: 85.125
+Alpha is: 85.125
+Max Flow: 22544
+
+32
+D: 
+196 9 47 41 3 8 2 101 7 26 56 4 51 21 24 10 131 22 173 38 16 28 180 148 1 0 60 20 92 49 6 5 
+CDS Density: 85.125
+Number of cliques: 2724
+Number of vertices: 32
+Time taken by algorithm: 18.1891 seconds

@@ -1,0 +1,13 @@
+Found 82231 hCliques
+Found 53875 h - 1 Cliques
+Inital Parameters:
+l: 946 u: 45
+Max Flow: 231770
+l is: 946 and u is: 45
+val is: 0.00042517
+49
+3 17 6 22 29 42 30 57 81 89 109 141 151 276 214 195 222 223 229 306 333 440 297 336 455 451 531 612 571 480 711 733 736 783 798 799 810 841 1487 1581 851 1303 2339 2429 3122 957 2337 971 1281 
+CDS Density: 942.837
+Number of cliques: 46199
+Number of vertices: 49
+Time taken by algorithm: 14.3414 seconds

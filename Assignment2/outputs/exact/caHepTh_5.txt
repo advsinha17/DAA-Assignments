@@ -1,0 +1,182 @@
+n is: 9877
+m is: 51971
+Found 279547 hCliques:
+Found 65592 h - 1 Cliques
+inital parameters: 
+l = 0 u = 31549
+val is: 1.02517e-08
+l is: 0 u is: 31549
+Alpha is: 15774.5
+Max Flow: 1.39774e+06
+
+l is: 0 u is: 15774.5
+Alpha is: 7887.25
+Max Flow: 1.39774e+06
+
+l is: 0 u is: 7887.25
+Alpha is: 3943.62
+Max Flow: 1.02184e+06
+
+l is: 3943.62 u is: 7887.25
+Alpha is: 5915.44
+Max Flow: 1.33732e+06
+
+l is: 5915.44 u is: 7887.25
+Alpha is: 6901.34
+Max Flow: 1.39774e+06
+
+l is: 5915.44 u is: 6901.34
+Alpha is: 6408.39
+Max Flow: 1.39774e+06
+
+l is: 5915.44 u is: 6408.39
+Alpha is: 6161.91
+Max Flow: 1.37676e+06
+
+l is: 6161.91 u is: 6408.39
+Alpha is: 6285.15
+Max Flow: 1.39648e+06
+
+l is: 6285.15 u is: 6408.39
+Alpha is: 6346.77
+Max Flow: 1.39774e+06
+
+l is: 6285.15 u is: 6346.77
+Alpha is: 6315.96
+Max Flow: 1.39774e+06
+
+l is: 6285.15 u is: 6315.96
+Alpha is: 6300.56
+Max Flow: 1.39774e+06
+
+l is: 6285.15 u is: 6300.56
+Alpha is: 6292.85
+Max Flow: 1.39771e+06
+
+l is: 6292.85 u is: 6300.56
+Alpha is: 6296.71
+Max Flow: 1.39774e+06
+
+l is: 6292.85 u is: 6296.71
+Alpha is: 6294.78
+Max Flow: 1.39774e+06
+
+l is: 6292.85 u is: 6294.78
+Alpha is: 6293.82
+Max Flow: 1.39774e+06
+
+l is: 6292.85 u is: 6293.82
+Alpha is: 6293.34
+Max Flow: 1.39774e+06
+
+l is: 6292.85 u is: 6293.34
+Alpha is: 6293.1
+Max Flow: 1.39774e+06
+
+l is: 6292.85 u is: 6293.1
+Alpha is: 6292.98
+Max Flow: 1.39773e+06
+
+l is: 6292.98 u is: 6293.1
+Alpha is: 6293.04
+Max Flow: 1.39774e+06
+
+l is: 6292.98 u is: 6293.04
+Alpha is: 6293.01
+Max Flow: 1.39774e+06
+
+l is: 6292.98 u is: 6293.01
+Alpha is: 6292.99
+Max Flow: 1.39773e+06
+
+l is: 6292.99 u is: 6293.01
+Alpha is: 6293
+Max Flow: 1.39773e+06
+
+l is: 6293 u is: 6293.01
+Alpha is: 6293
+Max Flow: 1.39774e+06
+
+l is: 6293 u is: 6293
+Alpha is: 6293
+Max Flow: 1.39773e+06
+
+l is: 6293 u is: 6293
+Alpha is: 6293
+Max Flow: 1.39774e+06
+
+l is: 6293 u is: 6293
+Alpha is: 6293
+Max Flow: 1.39774e+06
+
+l is: 6293 u is: 6293
+Alpha is: 6293
+Max Flow: 1.39773e+06
+
+l is: 6293 u is: 6293
+Alpha is: 6293
+Max Flow: 1.39773e+06
+
+l is: 6293 u is: 6293
+Alpha is: 6293
+Max Flow: 1.39773e+06
+
+l is: 6293 u is: 6293
+Alpha is: 6293
+Max Flow: 1.39773e+06
+
+l is: 6293 u is: 6293
+Alpha is: 6293
+Max Flow: 1.39773e+06
+
+l is: 6293 u is: 6293
+Alpha is: 6293
+Max Flow: 1.39773e+06
+
+l is: 6293 u is: 6293
+Alpha is: 6293
+Max Flow: 1.39773e+06
+
+l is: 6293 u is: 6293
+Alpha is: 6293
+Max Flow: 1.39774e+06
+
+l is: 6293 u is: 6293
+Alpha is: 6293
+Max Flow: 1.39773e+06
+
+l is: 6293 u is: 6293
+Alpha is: 6293
+Max Flow: 1.39774e+06
+
+l is: 6293 u is: 6293
+Alpha is: 6293
+Max Flow: 1.39773e+06
+
+l is: 6293 u is: 6293
+Alpha is: 6293
+Max Flow: 1.39773e+06
+
+l is: 6293 u is: 6293
+Alpha is: 6293
+Max Flow: 1.39774e+06
+
+l is: 6293 u is: 6293
+Alpha is: 6293
+Max Flow: 1.39774e+06
+
+l is: 6293 u is: 6293
+Alpha is: 6293
+Max Flow: 1.39774e+06
+
+l is: 6293 u is: 6293
+Alpha is: 6293
+Max Flow: 1.39773e+06
+
+32
+D: 
+4514 4512 4508 4507 4506 4505 4504 4503 4502 4501 4500 4499 4498 4497 4496 4495 4493 4492 4491 4490 4489 4488 4487 4486 4485 4483 1326 1305 4484 4511 4510 4509 
+CDS Density: 6293
+Number of cliques: 201376
+Number of vertices: 32
+Time taken by algorithm: 744.833 seconds

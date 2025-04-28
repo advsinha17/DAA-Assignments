@@ -1,0 +1,162 @@
+n is: 6474
+m is: 13895
+Found 5900 hCliques:
+Found 5636 h - 1 Cliques
+inital parameters: 
+l = 0 u = 2620
+val is: 2.38628e-08
+l is: 0 u is: 2620
+Alpha is: 1310
+Max Flow: 29500
+
+l is: 0 u is: 1310
+Alpha is: 655
+Max Flow: 29500
+
+l is: 0 u is: 655
+Alpha is: 327.5
+Max Flow: 29500
+
+l is: 0 u is: 327.5
+Alpha is: 163.75
+Max Flow: 29500
+
+l is: 0 u is: 163.75
+Alpha is: 81.875
+Max Flow: 22113.1
+
+l is: 81.875 u is: 163.75
+Alpha is: 122.812
+Max Flow: 28895.9
+
+l is: 122.812 u is: 163.75
+Alpha is: 143.281
+Max Flow: 29500
+
+l is: 122.812 u is: 143.281
+Alpha is: 133.047
+Max Flow: 29500
+
+l is: 122.812 u is: 133.047
+Alpha is: 127.93
+Max Flow: 29500
+
+l is: 122.812 u is: 127.93
+Alpha is: 125.371
+Max Flow: 29290.7
+
+l is: 125.371 u is: 127.93
+Alpha is: 126.65
+Max Flow: 29482.6
+
+l is: 126.65 u is: 127.93
+Alpha is: 127.29
+Max Flow: 29500
+
+l is: 126.65 u is: 127.29
+Alpha is: 126.97
+Max Flow: 29500
+
+l is: 126.65 u is: 126.97
+Alpha is: 126.81
+Max Flow: 29500
+
+l is: 126.65 u is: 126.81
+Alpha is: 126.73
+Max Flow: 29494.6
+
+l is: 126.73 u is: 126.81
+Alpha is: 126.77
+Max Flow: 29500
+
+l is: 126.73 u is: 126.77
+Alpha is: 126.75
+Max Flow: 29497.6
+
+l is: 126.75 u is: 126.77
+Alpha is: 126.76
+Max Flow: 29499
+
+l is: 126.76 u is: 126.77
+Alpha is: 126.765
+Max Flow: 29499.8
+
+l is: 126.765 u is: 126.77
+Alpha is: 126.768
+Max Flow: 29500
+
+l is: 126.765 u is: 126.768
+Alpha is: 126.767
+Max Flow: 29500
+
+l is: 126.767 u is: 126.768
+Alpha is: 126.767
+Max Flow: 29500
+
+l is: 126.767 u is: 126.767
+Alpha is: 126.767
+Max Flow: 29500
+
+l is: 126.767 u is: 126.767
+Alpha is: 126.767
+Max Flow: 29500
+
+l is: 126.767 u is: 126.767
+Alpha is: 126.767
+Max Flow: 29500
+
+l is: 126.767 u is: 126.767
+Alpha is: 126.767
+Max Flow: 29500
+
+l is: 126.767 u is: 126.767
+Alpha is: 126.767
+Max Flow: 29500
+
+l is: 126.767 u is: 126.767
+Alpha is: 126.767
+Max Flow: 29500
+
+l is: 126.767 u is: 126.767
+Alpha is: 126.767
+Max Flow: 29500
+
+l is: 126.767 u is: 126.767
+Alpha is: 126.767
+Max Flow: 29500
+
+l is: 126.767 u is: 126.767
+Alpha is: 126.767
+Max Flow: 29500
+
+l is: 126.767 u is: 126.767
+Alpha is: 126.767
+Max Flow: 29500
+
+l is: 126.767 u is: 126.767
+Alpha is: 126.767
+Max Flow: 29500
+
+l is: 126.767 u is: 126.767
+Alpha is: 126.767
+Max Flow: 29500
+
+l is: 126.767 u is: 126.767
+Alpha is: 126.767
+Max Flow: 29500
+
+l is: 126.767 u is: 126.767
+Alpha is: 126.767
+Max Flow: 29500
+
+l is: 126.767 u is: 126.767
+Alpha is: 126.767
+Max Flow: 29500
+
+30
+D: 
+196 9 47 41 2 1 8 60 0 22 4 16 26 38 92 131 180 10 24 21 20 49 7 56 28 101 148 6 5 3 
+CDS Density: 126.767
+Number of cliques: 3803
+Number of vertices: 30
+Time taken by algorithm: 32.6463 seconds

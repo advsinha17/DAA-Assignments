@@ -1,0 +1,44 @@
+Found 206 hCliques
+Found 1948 h - 1 Cliques
+Inital Parameters:
+l: 4 u: 7
+Max Flow: 78
+l is: 4 and u is: 7
+val is: 0.0238095
+l is: 4 and u is: 7
+alpha is: 5.5
+val is: 0.0238095
+Max Flow: 78
+l is: 4 and u is: 5.5
+alpha is: 4.75
+val is: 0.0238095
+Max Flow: 78
+l is: 4 and u is: 4.75
+alpha is: 4.375
+val is: 0.0238095
+Max Flow: 78
+l is: 4 and u is: 4.375
+alpha is: 4.1875
+val is: 0.0238095
+Max Flow: 78
+l is: 4 and u is: 4.1875
+alpha is: 4.09375
+val is: 0.0238095
+Max Flow: 78
+l is: 4 and u is: 4.09375
+alpha is: 4.04688
+val is: 0.0238095
+Max Flow: 78
+l is: 4 and u is: 4.04688
+alpha is: 4.02344
+val is: 0.0238095
+Max Flow: 78
+Max Flow: 30
+l is: 4 and u is: 4.02344
+val is: 0.05
+7
+147 148 149 150 151 152 153 
+CDS Density: 3.71429
+Number of cliques: 26
+Number of vertices: 7
+Time taken by algorithm: 0.0136055 seconds

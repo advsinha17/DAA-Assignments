@@ -1,0 +1,118 @@
+n is: 1458
+m is: 1948
+Found 206 hCliques:
+Found 1948 h - 1 Cliques
+inital parameters: 
+l = 0 u = 18
+val is: 4.70742e-07
+l is: 0 u is: 18
+Alpha is: 9
+Max Flow: 618
+
+l is: 0 u is: 9
+Alpha is: 4.5
+Max Flow: 618
+
+l is: 0 u is: 4.5
+Alpha is: 2.25
+Max Flow: 587.25
+
+l is: 2.25 u is: 4.5
+Alpha is: 3.375
+Max Flow: 610.875
+
+l is: 3.375 u is: 4.5
+Alpha is: 3.9375
+Max Flow: 618
+
+l is: 3.375 u is: 3.9375
+Alpha is: 3.65625
+Max Flow: 616.781
+
+l is: 3.65625 u is: 3.9375
+Alpha is: 3.79688
+Max Flow: 618
+
+l is: 3.65625 u is: 3.79688
+Alpha is: 3.72656
+Max Flow: 618
+
+l is: 3.65625 u is: 3.72656
+Alpha is: 3.69141
+Max Flow: 617.52
+
+l is: 3.69141 u is: 3.72656
+Alpha is: 3.70898
+Max Flow: 617.889
+
+l is: 3.70898 u is: 3.72656
+Alpha is: 3.71777
+Max Flow: 618
+
+l is: 3.70898 u is: 3.71777
+Alpha is: 3.71338
+Max Flow: 617.981
+
+l is: 3.71338 u is: 3.71777
+Alpha is: 3.71558
+Max Flow: 618
+
+l is: 3.71338 u is: 3.71558
+Alpha is: 3.71448
+Max Flow: 618
+
+l is: 3.71338 u is: 3.71448
+Alpha is: 3.71393
+Max Flow: 617.992
+
+l is: 3.71393 u is: 3.71448
+Alpha is: 3.7142
+Max Flow: 617.998
+
+l is: 3.7142 u is: 3.71448
+Alpha is: 3.71434
+Max Flow: 618
+
+l is: 3.7142 u is: 3.71434
+Alpha is: 3.71427
+Max Flow: 618
+
+l is: 3.71427 u is: 3.71434
+Alpha is: 3.71431
+Max Flow: 618
+
+l is: 3.71427 u is: 3.71431
+Alpha is: 3.71429
+Max Flow: 618
+
+l is: 3.71427 u is: 3.71429
+Alpha is: 3.71428
+Max Flow: 618
+
+l is: 3.71428 u is: 3.71429
+Alpha is: 3.71428
+Max Flow: 618
+
+l is: 3.71428 u is: 3.71429
+Alpha is: 3.71429
+Max Flow: 618
+
+l is: 3.71428 u is: 3.71429
+Alpha is: 3.71429
+Max Flow: 618
+
+l is: 3.71429 u is: 3.71429
+Alpha is: 3.71429
+Max Flow: 618
+
+l is: 3.71429 u is: 3.71429
+Alpha is: 3.71429
+Max Flow: 618
+
+7
+D: 
+153 151 148 147 152 150 149 
+CDS Density: 3.71429
+Number of cliques: 26
+Number of vertices: 7
+Time taken by algorithm: 0.186436 seconds

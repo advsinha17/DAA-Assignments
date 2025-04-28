@@ -1,0 +1,89 @@
+n is: 26475
+m is: 106762
+Found 82231 hCliques:
+Found 53875 h - 1 Cliques
+inital parameters: 
+l = 0 u = 20113
+val is: 1.42674e-09
+l is: 0 u is: 20113
+Alpha is: 10056.5
+Max Flow: 411155
+
+l is: 0 u is: 10056.5
+Alpha is: 5028.25
+Max Flow: 411155
+
+l is: 0 u is: 5028.25
+Alpha is: 2514.12
+Max Flow: 411155
+
+l is: 0 u is: 2514.12
+Alpha is: 1257.06
+Max Flow: 411155
+
+l is: 0 u is: 1257.06
+Alpha is: 628.531
+Max Flow: 326369
+
+l is: 628.531 u is: 1257.06
+Alpha is: 942.797
+Max Flow: 410444
+
+l is: 942.797 u is: 1257.06
+Alpha is: 1099.93
+Max Flow: 411155
+
+l is: 942.797 u is: 1099.93
+Alpha is: 1021.36
+Max Flow: 411155
+
+l is: 942.797 u is: 1021.36
+Alpha is: 982.08
+Max Flow: 411155
+
+l is: 942.797 u is: 982.08
+Alpha is: 962.438
+Max Flow: 411155
+
+l is: 942.797 u is: 962.438
+Alpha is: 952.618
+Max Flow: 411155
+
+l is: 942.797 u is: 952.618
+Alpha is: 947.707
+Max Flow: 411155
+
+l is: 942.797 u is: 947.707
+Alpha is: 945.252
+Max Flow: 410997
+
+l is: 945.252 u is: 947.707
+Alpha is: 946.48
+Max Flow: 411155
+
+l is: 945.252 u is: 946.48
+Alpha is: 945.866
+Max Flow: 411135
+
+l is: 945.866 u is: 946.48
+Alpha is: 946.173
+Max Flow: 411155
+
+l is: 945.866 u is: 946.173
+Alpha is: 946.019
+Max Flow: 411155
+
+l is: 945.866 u is: 946.019
+Alpha is: 945.943
+Max Flow: 411152
+
+l is: 945.943 u is: 946.019
+Alpha is: 945.981
+Max Flow: 411155
+
+l is: 945.943 u is: 945.981
+Alpha is: 945.962
+Max Flow: 411155
+
+l is: 945.943 u is: 945.962
+Alpha is: 945.952

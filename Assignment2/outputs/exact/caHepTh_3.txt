@@ -1,0 +1,158 @@
+n is: 9877
+m is: 51971
+Found 28339 hCliques:
+Found 25973 h - 1 Cliques
+inital parameters: 
+l = 0 u = 505
+val is: 1.02517e-08
+l is: 0 u is: 505
+Alpha is: 252.5
+Max Flow: 85017
+
+l is: 0 u is: 252.5
+Alpha is: 126.25
+Max Flow: 82257
+
+l is: 126.25 u is: 252.5
+Alpha is: 189.375
+Max Flow: 85017
+
+l is: 126.25 u is: 189.375
+Alpha is: 157.812
+Max Flow: 85017
+
+l is: 126.25 u is: 157.812
+Alpha is: 142.031
+Max Flow: 83772
+
+l is: 142.031 u is: 157.812
+Alpha is: 149.922
+Max Flow: 84529.5
+
+l is: 149.922 u is: 157.812
+Alpha is: 153.867
+Max Flow: 84908.2
+
+l is: 153.867 u is: 157.812
+Alpha is: 155.84
+Max Flow: 85017
+
+l is: 153.867 u is: 155.84
+Alpha is: 154.854
+Max Flow: 85002.9
+
+l is: 154.854 u is: 155.84
+Alpha is: 155.347
+Max Flow: 85017
+
+l is: 154.854 u is: 155.347
+Alpha is: 155.1
+Max Flow: 85017
+
+l is: 154.854 u is: 155.1
+Alpha is: 154.977
+Max Flow: 85014.8
+
+l is: 154.977 u is: 155.1
+Alpha is: 155.038
+Max Flow: 85017
+
+l is: 154.977 u is: 155.038
+Alpha is: 155.008
+Max Flow: 85017
+
+l is: 154.977 u is: 155.008
+Alpha is: 154.992
+Max Flow: 85016.3
+
+l is: 154.992 u is: 155.008
+Alpha is: 155
+Max Flow: 85017
+
+l is: 155 u is: 155.008
+Alpha is: 155.004
+Max Flow: 85017
+
+l is: 155 u is: 155.004
+Alpha is: 155.002
+Max Flow: 85017
+
+l is: 155 u is: 155.002
+Alpha is: 155.001
+Max Flow: 85017
+
+l is: 155 u is: 155.001
+Alpha is: 155
+Max Flow: 85017
+
+l is: 155 u is: 155
+Alpha is: 155
+Max Flow: 85017
+
+l is: 155 u is: 155
+Alpha is: 155
+Max Flow: 85017
+
+l is: 155 u is: 155
+Alpha is: 155
+Max Flow: 85017
+
+l is: 155 u is: 155
+Alpha is: 155
+Max Flow: 85017
+
+l is: 155 u is: 155
+Alpha is: 155
+Max Flow: 85017
+
+l is: 155 u is: 155
+Alpha is: 155
+Max Flow: 85017
+
+l is: 155 u is: 155
+Alpha is: 155
+Max Flow: 85017
+
+l is: 155 u is: 155
+Alpha is: 155
+Max Flow: 85017
+
+l is: 155 u is: 155
+Alpha is: 155
+Max Flow: 85017
+
+l is: 155 u is: 155
+Alpha is: 155
+Max Flow: 85017
+
+l is: 155 u is: 155
+Alpha is: 155
+Max Flow: 85017
+
+l is: 155 u is: 155
+Alpha is: 155
+Max Flow: 85017
+
+l is: 155 u is: 155
+Alpha is: 155
+Max Flow: 85017
+
+l is: 155 u is: 155
+Alpha is: 155
+Max Flow: 85017
+
+l is: 155 u is: 155
+Alpha is: 155
+Max Flow: 85017
+
+l is: 155 u is: 155
+Alpha is: 155
+Max Flow: 85017
+
+32
+D: 
+4514 4512 4510 4509 4508 4507 4506 4505 4504 4503 4502 4501 4500 4499 4498 4497 4496 4495 4493 4492 4491 4490 4489 4488 4487 4486 4485 4483 1326 1305 4511 4484 
+CDS Density: 155
+Number of cliques: 4960
+Number of vertices: 32
+Time taken by algorithm: 33.2903 seconds
